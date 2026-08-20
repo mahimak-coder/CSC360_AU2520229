@@ -1,4 +1,4 @@
-Reflection on Today's Graphics Class.
+#Reflection on Today's Graphics Class.
 
 During the graphics class today, I had to recognize that even a somewhat basic concept like a moving “s”quare can be a lot of thinking. I really enjoyed that when we got started, we didn't go straight to the coding but went back to the basics of it. I needed to consider things such as the position and size of the square, where the square should begin, where the coordinates will determine on the screen and so on before I came up with any ideas that I could use to draw the square. This helped me to be more familiar with graphics rather than being merely code.
 
